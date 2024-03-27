@@ -48,7 +48,7 @@ class Content extends StatelessWidget {
                     color: Colors.white,
                   ),
                   Container(
-                    height: 800,
+                    height: 80,
                     width: 160,
                     color: Colors.blue,
                   ),
